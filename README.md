@@ -20,10 +20,15 @@
 * ReactNative
 
 # Tools. 🛠
-Npm Postgresql Git GitHub Sanity.io MongoDB
+* Npm 
+* Postgresql 
+* Git 
+* GitHub 
+* Sanity.io 
+* MongoDB
 
 
-Connect with me via:
+# Connect with me via:
    
 <!---
 yusifu-m-barrie/yusifu-m-barrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
