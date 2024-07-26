@@ -8,7 +8,16 @@
 
 
 # Languages & Frameworks. 🚧
-HTML5 CSS3 JavaScript TypeScript React Nodejs ReactJS NextJS AngularJS ReactNative
+* HTML5 
+* CSS3 
+* JavaScript 
+* TypeScript 
+* React 
+* Nodejs 
+* ReactJS 
+* NextJS 
+* AngularJS 
+* ReactNative
 
 # Tools. 🛠
 Npm Postgresql Git GitHub Sanity.io MongoDB
